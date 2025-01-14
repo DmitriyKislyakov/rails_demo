@@ -1,0 +1,2 @@
+module ConcatHelper
+end
